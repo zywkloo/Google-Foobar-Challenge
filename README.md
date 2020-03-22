@@ -10,5 +10,4 @@ Current progress level 2
 
 ## Animation after beating level 1.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-rBEy82xzQc/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-rBEy82xzQc/0.jpg)](http://www.youtube.com/watch?v=-rBEy82xzQc)
